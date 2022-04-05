@@ -2,7 +2,11 @@
 	"author": "Marie Ricarda",
 	"name": "fcc-learn-npm-package-json",
 	"description": "FFC backend project",
-	"keywords": ["freecodecamp", "project", "backend"],
+	"keywords": [
+		"freecodecamp",
+		"project",
+		"backend"
+	],
 	"license": "MIT",
 	"version": "1.2.0",
 	"dependencies": {
