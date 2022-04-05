@@ -1,6 +1,7 @@
 {
 	"author": "Marie Ricarda",
 	"name": "fcc-learn-npm-package-json",
+	"description": "FFC backend project",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
