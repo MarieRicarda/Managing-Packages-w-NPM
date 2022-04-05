@@ -27,6 +27,9 @@ var server = app.listen(8081, function() {
     console.log(new Date().toISOString() + ": server started on port 8081");
 });
 
+app.get("/", function(req, res) {
+  res.send("Hello Express");
+});
 
 var port = process.env.PORT || 3000;
 bGround.setupBackgroundApp(app, myApp, __dirname).listen(port, function(){
