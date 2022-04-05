@@ -2,6 +2,7 @@
 	"author": "Marie Ricarda",
 	"name": "fcc-learn-npm-package-json",
 	"description": "FFC backend project",
+	"keywords": ["freecodecamp", "project", "backend"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
